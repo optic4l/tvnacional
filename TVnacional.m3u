@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1, La red
+https://cl-lared-lared-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2NDk2Nzg1LCJzZXNzaW9uIjoiNDUuMjMyLjk1LjQyIiwid2hpdGVsaXN0IjpbIjQ1LjIzMi45NS40MiJdfSwic2lnbmF0dXJlIjoiNGZkY2M2OGVjNzRmYzM1YTc0ZGQ2NTE2NTdkMzgyZTUzN2M5MzFmNSJ9
+
+#EXTINF:-1, TVN
+https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream-dai/c772e2ff710d47519accb36341713f3b/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/7e8e70d9-b1e2-4b34-ab5f-f8b53c4c4b2e/2.m3u8?aid=51c2f628b440bd797900051f&uid=M1m1uqCMsMuUZ5XpBSx0M4IwurklwCHa&sid=dctudWFcocTTLsamYmgxtgSQ9QRfuZUe&pid=6Gac7HIKYeIQCzdcFkhV4mVqIsQUFcxO&ref=https%3A%2F%2Ftoken.tvn.cl%2F&without_cookies=false&dnt=true&access_token=gAqwu0413ckTNaPIp1RHUNs03cjb1OcUhpJTPBLhTKnnJh328JzPKbolK8UReQwF6gKifGDeFM4&es=cl-a6-i-e-qp1.cdn.mdstrm.com&ote=1636496341844&ot=v9oyKsCFGqFF6X6fCIjRbw&proto=https&pz=cl
+
+#EXTINF:-1,MEGA
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream-dai/e3c6a4d4e421462baf807f90073f8722/manifest/f624fec49dadc88894ebeff1d974eab019af7757/53d2c1a32640614e62a0e000/183906a1-eae1-4093-88fb-1a543e0feb85/2.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=M1m1uqCMsMuUZ5XpBSx0M4IwurklwCHa&sid=dctudWFcocTTLsamYmgxtgSQ9QRfuZUe&pid=SlTAhq7zUZzVKvqL8CLXOGX6m5rKYcpU&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&dnt=true&access_token=5lKLa0MZCzBalkoN8iwneOaQZRmYlVwFY9tSzYSjhhvlcHqhjyqb8YqnpwJFO8zXJRflu14e8Ki&es=cl-a6-i-e-qp1.cdn.mdstrm.com&ote=1636496706132&ot=luSsMhAzTF8d5hFwiANoyg&proto=https&pz=cl
+
+
+#EXTINF:-1,CHV
+https://mdstrm.com/live-stream-playlist/5c928b7f6d6f41084bdae898.m3u8?uid=M1m1uqCMsMuUZ5XpBSx0M4IwurklwCHa&sid=dctudWFcocTTLsamYmgxtgSQ9QRfuZUe&pid=ikEnX30C2QSSd437bQhMm6s1LZprhyfu&an=screen&at=web-app&av=v5.2.192&ref=&res=918x541&without_cookies=false&dnt=true&access_token=m7I2sEJbqDiJ0XzdX6MW5c4n6bp4GQFcbBNAxUlWyK3FlhmDQSDwOR6HEqLvWTeCQM1xgLez1Ye
+
+#EXTINF:-1,CANAL 13
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream-dai/ec9ad5d3f12044bba64c8583a71d341e/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5f51a916c21eec083ab337a8/3175d73f-62a5-42e9-bcfa-ce3fc5a09b8a/1.m3u8?aid=5f0f079d21505c07a75b77bf&uid=M1m1uqCMsMuUZ5XpBSx0M4IwurklwCHa&sid=dctudWFcocTTLsamYmgxtgSQ9QRfuZUe&pid=1gwlbqRvJfUyUgN5ALWW1r41ys8IucUk&ref=https%3A%2F%2Fwww.13.cl%2F&without_cookies=false&dnt=true&access_token=9ZR9fKP7dthc4rY2KCfyusc0fo2SSdjKeha1clvew6j3bv36WJcpCQDpRSdYoy0VkxVEcGvnVtM&es=cl-a6-i-e-aj4.cdn.mdstrm.com&ote=1636496474347&ot=iL1O9Aozelu3m7M6TOspiA&proto=https&pz=cl
